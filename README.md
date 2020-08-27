@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="cppreference-dark" src="https://cdn2.arqadium.com/f/0e6b84ebfb644d6da95f93b3588857a9/unknown.svg" width="580">
+<img alt="cppreference-dark" src="https://cdn2.arqadium.com/f/be0ae6462da64c56b65902caadb2a976/unknown.svg" width="580">
 </p>
 
 ## Installation
