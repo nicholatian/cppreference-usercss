@@ -12,4 +12,4 @@ xStyle for [Firefox](https://addons.mozilla.org/firefox/addon/xstyle/) or [Chrom
 
 ### Then install using one of these methods
 
-[Install the usercss](https://github.com/nicholatian/cppreference-dark/raw/master/cppreference-dark.user.css) with Stylus or xStyle. Supports automatic updates.
+[Install the usercss](https://github.com/nicholatian/cppreference-usercss/raw/master/cppreference-dark.user.css) with Stylus or xStyle. Supports automatic updates.
