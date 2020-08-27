@@ -1,3 +1,15 @@
+/* ==UserStyle==
+@name         Cppreference Dark
+@namespace    nicholatian
+@version      0.0.0
+@description  Cppreference Dark theme
+@author       nicholatian
+@homepageURL  https://github.com/nicholatian/cppreference-usercss
+@supportURL   https://github.com/nicholatian/cppreference-usercss/issues/new
+@updateURL    https://github.com/nicholatian/cppreference-usercss/raw/master/cppreference-dark.user.css
+@license      CC-BY-3.0
+@preprocessor uso
+==/UserStyle== */
 @namespace url(http://www.w3.org/1999/xhtml);
 
 @-moz-document domain("cppreference.com"), url-prefix("file:///usr/share/cppreference/")
